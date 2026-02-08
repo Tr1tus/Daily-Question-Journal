@@ -54,7 +54,7 @@ Any changes to this privacy policy will be reflected in app updates. The "Last u
 ### Contact
 
 If you have questions about this privacy policy, please contact:
-**[fabianheinenberg@web.de]**
+**[tokamarstudio@gmail.com]**
 
 ---
 
@@ -108,4 +108,4 @@ Diese App erhebt wissentlich keine Daten von Kindern. Da keinerlei Daten erhoben
 ### Kontakt
 
 Bei Fragen zu dieser Datenschutzrichtlinie wenden Sie sich bitte an:
-**[fabianheinenberg@web.de]**
+**[tokamarstudio@gmail.com]**
